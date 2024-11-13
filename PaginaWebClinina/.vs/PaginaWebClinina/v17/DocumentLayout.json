@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|c:\\users\\cbn\\onedrive\\escritorio\\proyectomedreminder-main\\paginawebclinina\\gestionarenfermera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarenfermera.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarhorariosenfermeras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarhorariosenfermeras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarmedico.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:home.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\js\\paciente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:js\\paciente.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarpaciente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarpaciente.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806CD5A-4557-478F-BE83-736AAE17B857}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\capalogicanegocio\\horarioatencionln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806CD5A-4557-478F-BE83-736AAE17B857}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|solutionrelative:capalogicanegocio\\horarioatencionln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44BDC27-872F-4DC1-B34C-24BCA5E51855}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\capaentidades\\horarioatencionenfermera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44BDC27-872F-4DC1-B34C-24BCA5E51855}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\horarioatencionenfermera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionaratencionpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionaratencionpaciente.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\jalert\\jquery.alerts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:jalert\\jquery.alerts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\jalert\\jquery.alerts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:jalert\\jquery.alerts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A0CC9-83F6-49AD-B3E1-FDF8D8BB5E9D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\capaaccesodatos\\pacientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4A0CC9-83F6-49AD-B3E1-FDF8D8BB5E9D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\pacientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarpermisos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarpermisos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionaratencioncita.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionaratencioncita.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarreservacitas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarreservacitas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarhorarioatencion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarhorarioatencion.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarmenus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarmenus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\gestionarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{779103C9-02A7-4BE4-909D-5626035FD421}|CapaPresentaci\u00F3n.csproj|solutionrelative:gestionarusuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4A0CC9-83F6-49AD-B3E1-FDF8D8BB5E9D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\capaaccesodatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4A0CC9-83F6-49AD-B3E1-FDF8D8BB5E9D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806CD5A-4557-478F-BE83-736AAE17B857}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\capalogicanegocio\\horarioatencionenfermeraln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806CD5A-4557-478F-BE83-736AAE17B857}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|solutionrelative:capalogicanegocio\\horarioatencionenfermeraln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9806CD5A-4557-478F-BE83-736AAE17B857}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\capalogicanegocio\\diagnosticoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9806CD5A-4557-478F-BE83-736AAE17B857}|CapaLogicaNegocio\\CapaLogicaNegocio.csproj|solutionrelative:capalogicanegocio\\diagnosticoln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T22:28:39.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestionarPaciente.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarPaciente.aspx.cs",
+              "RelativeDocumentMoniker": "GestionarPaciente.aspx.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarPaciente.aspx.cs",
+              "RelativeToolTip": "GestionarPaciente.aspx.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAjwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:09:15.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HorarioAtencionLN.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaLogicaNegocio\\HorarioAtencionLN.cs",
+              "RelativeDocumentMoniker": "CapaLogicaNegocio\\HorarioAtencionLN.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaLogicaNegocio\\HorarioAtencionLN.cs",
+              "RelativeToolTip": "CapaLogicaNegocio\\HorarioAtencionLN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:11:13.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HorarioAtencionEnfermera.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaEntidades\\HorarioAtencionEnfermera.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\HorarioAtencionEnfermera.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaEntidades\\HorarioAtencionEnfermera.cs",
+              "RelativeToolTip": "CapaEntidades\\HorarioAtencionEnfermera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:10:50.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "jquery.alerts.css",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\jAlert\\jquery.alerts.css",
+              "RelativeDocumentMoniker": "jAlert\\jquery.alerts.css",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\jAlert\\jquery.alerts.css",
+              "RelativeToolTip": "jAlert\\jquery.alerts.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T22:08:27.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "jquery.alerts.js",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\jAlert\\jquery.alerts.js",
+              "RelativeDocumentMoniker": "jAlert\\jquery.alerts.js",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\jAlert\\jquery.alerts.js",
+              "RelativeToolTip": "jAlert\\jquery.alerts.js",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T22:08:08.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PacienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaAccesoDatos\\PacienteDAO.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\PacienteDAO.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaAccesoDatos\\PacienteDAO.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\PacienteDAO.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAowGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:55:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "paciente.js",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\js\\Paciente.js",
+              "RelativeDocumentMoniker": "js\\Paciente.js",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\js\\Paciente.js",
+              "RelativeToolTip": "js\\Paciente.js",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAUwKkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T21:40:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GestionarAtencionCita.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarAtencionCita.aspx",
+              "RelativeDocumentMoniker": "GestionarAtencionCita.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarAtencionCita.aspx",
+              "RelativeToolTip": "GestionarAtencionCita.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:39:43.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestionarAtencionPaciente.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarAtencionPaciente.aspx",
+              "RelativeDocumentMoniker": "GestionarAtencionPaciente.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarAtencionPaciente.aspx",
+              "RelativeToolTip": "GestionarAtencionPaciente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:39:30.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionarEnfermera.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarEnfermera.aspx",
+              "RelativeDocumentMoniker": "GestionarEnfermera.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarEnfermera.aspx",
+              "RelativeToolTip": "GestionarEnfermera.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:39:24.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionarHorariosEnfermeras.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarHorariosEnfermeras.aspx",
+              "RelativeDocumentMoniker": "GestionarHorariosEnfermeras.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarHorariosEnfermeras.aspx",
+              "RelativeToolTip": "GestionarHorariosEnfermeras.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:39:19.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionarMedico.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarMedico.aspx",
+              "RelativeDocumentMoniker": "GestionarMedico.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarMedico.aspx",
+              "RelativeToolTip": "GestionarMedico.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:39:00.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionarPaciente.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarPaciente.aspx",
+              "RelativeDocumentMoniker": "GestionarPaciente.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarPaciente.aspx",
+              "RelativeToolTip": "GestionarPaciente.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:38:56.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestionarPermisos.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarPermisos.aspx",
+              "RelativeDocumentMoniker": "GestionarPermisos.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarPermisos.aspx",
+              "RelativeToolTip": "GestionarPermisos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:38:24.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GestionarUsuario.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarUsuario.aspx",
+              "RelativeDocumentMoniker": "GestionarUsuario.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarUsuario.aspx",
+              "RelativeToolTip": "GestionarUsuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:38:02.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GestionarReservaCitas.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarReservaCitas.aspx",
+              "RelativeDocumentMoniker": "GestionarReservaCitas.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarReservaCitas.aspx",
+              "RelativeToolTip": "GestionarReservaCitas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T21:33:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaAccesoDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaAccesoDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:27:49.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HorarioAtencionEnfermeraLN.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaLogicaNegocio\\HorarioAtencionEnfermeraLN.cs",
+              "RelativeDocumentMoniker": "CapaLogicaNegocio\\HorarioAtencionEnfermeraLN.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaLogicaNegocio\\HorarioAtencionEnfermeraLN.cs",
+              "RelativeToolTip": "CapaLogicaNegocio\\HorarioAtencionEnfermeraLN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:49:08.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiagnosticoLN.cs",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaLogicaNegocio\\DiagnosticoLN.cs",
+              "RelativeDocumentMoniker": "CapaLogicaNegocio\\DiagnosticoLN.cs",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\CapaLogicaNegocio\\DiagnosticoLN.cs",
+              "RelativeToolTip": "CapaLogicaNegocio\\DiagnosticoLN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:49:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GestionarMenus.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarMenus.aspx",
+              "RelativeDocumentMoniker": "GestionarMenus.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarMenus.aspx",
+              "RelativeToolTip": "GestionarMenus.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T21:48:56.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GestionarHorarioAtencion.aspx",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarHorarioAtencion.aspx",
+              "RelativeDocumentMoniker": "GestionarHorarioAtencion.aspx",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\GestionarHorarioAtencion.aspx",
+              "RelativeToolTip": "GestionarHorarioAtencion.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T21:48:52.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.Master",
+              "DocumentMoniker": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\Home.Master",
+              "RelativeDocumentMoniker": "Home.Master",
+              "ToolTip": "C:\\Users\\CBN\\OneDrive\\Escritorio\\ProyectoMEDREMINDER-main\\PaginaWebClinina\\Home.Master",
+              "RelativeToolTip": "Home.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T21:25:28.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
